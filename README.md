@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+🧳 Current Position: Looking for full-time opportunities.
+<br>📥 Contact Me: audenhuanguk@gmail.com
+<br>💬 Ask me about anything
