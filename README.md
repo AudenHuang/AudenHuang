@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 🧳 Current Position: Looking for full-time opportunities.
 <br>📥 Contact Me: audenhuanguk@gmail.com
 <br>💬 Ask me about anything
+
+# Past Projects:
+
+[DevMatch](https://github.com/BobbyHealy/DevMatch) 
+- A Project Maching and Managment Platform
+- Technologies: Go, React, Next.js, Firebase, Agora
+
+[Scripting Language](https://github.com/AudenHuang/H2)
+- Technologies: Haskell
+
+[BookManager](https://github.com/BooksManager/BookManager)
+- Book Mark App
+- Technologies: Swift, Firebase
+
