@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 - Book Mark App
 - Technologies: Swift, Firebase
 
+[Data Analysis and Visualization](https://github.com/Johan-Ng/Python)
+-  Analyse tweet data obtained using TAGS
+-  Clean and refine the raw TAGS dataset, and to analyse / visualise the data
+-  Technologies: Python, Numpy, Pandas, Matplotlib, Jupiter Notebook
+
