@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 -  Technologies: Python, Numpy, Pandas, Matplotlib, Jupiter Notebook
 
 [Assembly Code Analysis](https://github.com/AudenHuang/arch)
-- Understand the assemblylanguage of x86-64, in the AT&T syntax
+- Understand the assembly language of x86-64, in the AT&T syntax
 - Analyse a piece of assembly of theARMv8 architecture
 - Technologies: x86-64, ARMv8
 
