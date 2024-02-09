@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <br>📥 Contact Me: audenhuanguk@gmail.com
 <br>💬 Ask me about anything
 
-# Past Projects:
+# Current Project:
+Dissertation: Mine Sweeper Hint System
 
+# Past Projects:
 [DevMatch](https://github.com/BobbyHealy/DevMatch) 
 - A Project Maching and Managment Platform
 - Technologies: Go, React, Next.js, Firebase, Agora
@@ -40,4 +42,6 @@ Here are some ideas to get you started:
 - Understand the assembly language of x86-64, in the AT&T syntax
 - Analyse a piece of assembly of theARMv8 architecture
 - Technologies: x86-64, ARMv8
+
+![Auden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudenHuang&theme=highcontrast&show_icons=true)
 
