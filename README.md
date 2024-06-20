@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <br>💬 Ask me about anything
 
 # Current Project:
-Dissertation: Mine Sweeper Hint System
 
 # Past Projects:
 [Minesweeper Hint System](https://github.com/AudenHuang/CS4098MinesweeperHintSystem) 
