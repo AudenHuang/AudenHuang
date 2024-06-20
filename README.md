@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 Dissertation: Mine Sweeper Hint System
 
 # Past Projects:
+[Minesweeper Hint System](https://github.com/AudenHuang/CS4098MinesweeperHintSystem) 
+- Minesweeper probability hint system
+- Technologies: Python, Minizinc (Constraints Programming)
+
 [DevMatch](https://github.com/BobbyHealy/DevMatch) 
 - A Project Maching and Managment Platform
 - Technologies: Go, React, Next.js, Firebase, Agora
@@ -42,6 +46,3 @@ Dissertation: Mine Sweeper Hint System
 - Understand the assembly language of x86-64, in the AT&T syntax
 - Analyse a piece of assembly of theARMv8 architecture
 - Technologies: x86-64, ARMv8
-
-![Auden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AudenHuang&theme=highcontrast&show_icons=true)
-
