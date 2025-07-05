@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 - Minesweeper probability hint system
 - Technologies: Python, Minizinc (Constraints Programming)
 
+[Assembly Code Analysis](https://github.com/AudenHuang/arch)
+- Understand the assembly language of x86-64, in the AT&T syntax
+- Analyse a piece of assembly of theARMv8 architecture
+- Technologies: x86-64, ARMv8
+  
 [DevMatch](https://github.com/BobbyHealy/DevMatch) 
 - A Project Maching and Managment Platform
 - Technologies: Go, React, Next.js, Firebase, Agora
@@ -41,10 +46,6 @@ Here are some ideas to get you started:
 -  Clean and refine the raw TAGS dataset, and to analyse / visualise the data
 -  Technologies: Python, Numpy, Pandas, Matplotlib, Jupiter Notebook
 
-[Assembly Code Analysis](https://github.com/AudenHuang/arch)
-- Understand the assembly language of x86-64, in the AT&T syntax
-- Analyse a piece of assembly of theARMv8 architecture
-- Technologies: x86-64, ARMv8
 
 <!-- 
 ## 🌐 Socials:
