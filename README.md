@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🧳 Current Position: Looking for full-time opportunities.
-<br>📥 Contact Me: audenhuanguk@gmail.com
+<br>📥 Contact Me: auden@audenhuang.io
 <br>💬 Ask me about anything
 
 ## 🔭 Current Project:
